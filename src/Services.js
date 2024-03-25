@@ -238,10 +238,10 @@ function Services() {
                   marginBottom: "20px",
                 }}
               >
-                <p>           
-          "The operation theater room is a sterile environment equipped with advanced technology
-          for surgical procedures, ensuring optimal patient care and safety."
-                </p>
+              <p>           
+                "The operation theater room is a sterile environment equipped with advanced 
+                technology for surgical procedures, ensuring optimal patient care and safety."
+              </p>
               </div>
             </div>
           </div>
