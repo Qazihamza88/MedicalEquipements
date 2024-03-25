@@ -6,7 +6,7 @@ import Scissors from "./images/Scissors.jpg";
 import  Sbone from "./images/Surgicalbonecutter.png";
 import  AT from "./images/anesthesiatable.jpg";
 import  GTABLE from "./images/generalot-table.jpg";
-import  IMG from "./images/images.jpg";
+import  IMG from "./images/operation.jpg";
 import  Otl from "./images/operationtheaterlights.png";
 
 function Services() {
@@ -28,7 +28,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-              <h3> Blue Gloves </h3>
+              <h3> Oxygen Cylinder </h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -38,10 +38,8 @@ function Services() {
                   marginBottom: "20px",
                 }}
               >
-                <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                <p> A vital component in healthcare oxygen cylinders ensure 
+                 patients receive the oxygen they need for optimal recovery and treatment
                 </p>
               </div>
             </div>
@@ -55,7 +53,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-              <h3> White Gloves </h3>
+              <h3>Surgical Lights</h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -66,9 +64,8 @@ function Services() {
                 }}
               >
                 <p>
-                  White gloves are utilized in the medical field for their
-                  association with sterility, aiding in the detection of
-                  contaminants and maintaining 
+                "Operation lights, also known as surgical lights, illuminate surgical 
+                fields with precision, ensuring optimal visibility during procedures."
                 </p>
               </div>
             </div>
@@ -82,7 +79,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-              <h3> Body Temprature</h3>
+              <h3> Bone Cutter </h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -93,9 +90,8 @@ function Services() {
                 }}
               >
                 <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                "Bone cutters are specialized surgical instruments
+                 designed to precisely sever bones during orthopedic procedures."
                 </p>
               </div>
             </div>
@@ -111,7 +107,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-               <h3> Mask</h3>
+               <h3> Anesthesia Table</h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -119,12 +115,10 @@ function Services() {
                   borderRadius: "5px",
                   color: "#333",
                   marginBottom: "20px",
-                }}
-              >
+                }}>
                 <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                "Anesthesia tables are essential fixtures in operating rooms, providing a stable and 
+                adjustable platform for administering anesthesia during surgical procedures."
                 </p>
               </div>
             </div>
@@ -138,7 +132,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-               <h3> Stethoscope</h3>
+               <h3> Generalot Table</h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -149,9 +143,8 @@ function Services() {
                 }}
               >
                 <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                "A General OT, versatile medical equipment, adjusts to accommodate diverse 
+                surgical procedures, ensuring precise patient positioning for surgery."
                 </p>
               </div>
             </div>
@@ -165,7 +158,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-               <h3>Syringes</h3>
+               <h3>Operation Theater Bed</h3>
               <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -173,12 +166,9 @@ function Services() {
                   borderRadius: "5px",
                   color: "#333",
                   marginBottom: "20px",
-                }}
-              >
-                <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                }}>
+                <p>"An operating theater bed provides adjustable configurations, 
+                  ensuring optimal patient positioning for surgical procedures."
                 </p>
               </div>
             </div>
@@ -203,9 +193,8 @@ function Services() {
                 }}
               >
                 <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                "Surgical scissors, essential tools in operations, offer precision
+                 cutting for various procedures, ensuring accuracy and efficiency."
                 </p>
               </div>
             </div>
@@ -224,9 +213,8 @@ function Services() {
                   marginBottom: "20px",
                 }}>
                 <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                "Surgical blades, critical instruments in operations, provide precise 
+                incisions for surgical procedures, ensuring accuracy and safety."
                 </p>
               </div>
             </div>
@@ -240,7 +228,7 @@ function Services() {
                   marginBottom: "20px",
                 }}
               />
-               <h4>Operation Theater Bed</h4>
+               <h4>Operation Theater Room</h4>
                <div
                 style={{
                   backgroundColor: "#f0f0f0",
@@ -250,10 +238,9 @@ function Services() {
                   marginBottom: "20px",
                 }}
               >
-                <p>
-                  Blue gloves are utilized in the medical field for their
-                  distinctive color, which helps to easily differentiate them
-                  from other types of gloves.
+                <p>           
+          "The operation theater room is a sterile environment equipped with advanced technology
+          for surgical procedures, ensuring optimal patient care and safety."
                 </p>
               </div>
             </div>
