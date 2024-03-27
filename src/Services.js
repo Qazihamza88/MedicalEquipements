@@ -14,7 +14,7 @@ function Services() {
     <div style={{ paddingBottom: "20px", paddingTop: "20px" }}>
       <div  className="container" style={{ backgroundColor: "gray", padding: "10px" }}>
         <div style={{paddingBottom:"20px"}}>
-        <h1>Most Seller Products</h1>    
+        <h1 style={{backgroundColor:"red", width:"400px", height:"50px"}}>Most Seller Products</h1>    
         </div>
         <div className="container text-center">
           <div className="row align-items-center">

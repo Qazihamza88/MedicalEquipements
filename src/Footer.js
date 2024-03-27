@@ -4,51 +4,36 @@ const Footer = () => {
   return (
     <footer className="footer" style={{ backgroundColor: '#333', color: '#fff' ,paddingTop:"30px"  }}>
       <div className="container">
-        <div className="row">
-          <div className="col-md-6">
-            <div className="footer-info" style={{ textAlign: 'center' }}>
-              <h3>Contact Us</h3>
-              <p>
-                ✉️ na6699965@gmail.com
-              </p>
-              <p>
-                ✉️ royalashrafi72@hotmail.com
-              </p>
-              <p>
-                ☎️ +33605604198
-              </p>
-            </div>
+      <div className="row">
+        <div className="col-md-8">
+          <div className="contact-info" style={{ textAlign: 'center' }}>
+            <h3>Contact Us</h3>
+            <p>
+              ☎️ Phone: +33605604198
+            </p>
+            <p>
+              ✉️ Email: <a href="mailto:na6699965@gmail.com">na6699965@gmail.com</a>
+            </p>
+            <p>
+              ✉️ Email: <a href="mailto:royalashrafi72@hotmail.com">royalashrafi72@hotmail.com</a>
+            </p>
+           <p>
+              📅 Opening Days: Monday - Friday
+            </p>
+            <p>
+              📅 Opening Times: 9:00 AM - 5:00 PM
+            </p>
           </div>
-
-          <div className="col-md-6">
+        </div>
+        <div className="col-md-4">
           <div className="footer-branch" style={{ textAlign: 'center' }}>
-          <h3> Branch Office</h3>
+          <h3>Office Location</h3>
           <a href="https://www.google.com/maps/place/Gagny,+France"target="_blank" 
           style={{textDecoration:"none"}}><h4>Gagny France</h4></a>
-          </div>
-          </div>
-          {/* <div className="col-md-4">
-          <div className="footer-links" style={{ textAlign: 'center' }}>
-            <h3>Quick Links</h3>
-            <ul style={{ listStyleType: 'none', padding: 0 }}>
-                <li style={{ margin: '10px 0' }}>
-                <a href="#" style={{ textDecoration: 'none', color: 'inherit'  }}>Home</a>
-                </li>
-                <li style={{ margin: '10px 0' }}>
-                <a href="#" style={{ textDecoration: 'none', color: 'inherit' }}>About Us</a>
-                </li>
-                <li style={{ margin: '10px 0' }}>
-                <a href="#" style={{ textDecoration: 'none', color: 'inherit' }}>Services</a>
-                </li>
-                <li style={{ margin: '10px 0' }}>
-                <a href="#" style={{ textDecoration: 'none', color: 'inherit' }}>Contact</a>
-                </li>
-            </ul>
-          </div>
-
-          </div> */}
-        </div>
       </div>
+    </div>
+    </div>
+    </div>
     </footer>
   );
 }
